@@ -10,12 +10,16 @@ while (a < 5)
     
     if (!isNumber)
     {
-        Console.WriteLine("Thats not a number");
+        Console.WriteLine("Det är inte ett nummber!");
     }
 
     if (result > 5)
     {
-        Console.WriteLine("Higher than 5!");
+        Console.WriteLine("Högre än 5!");
+    }
+    else 
+    {
+        Console.WriteLine("Det är lägre än 5");
     }
     
     a++; 
