@@ -1,0 +1,14 @@
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\bin\Debug\net8.0\HelloWorld Övning1.exe
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\bin\Debug\net8.0\HelloWorld Övning1.deps.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\bin\Debug\net8.0\HelloWorld Övning1.runtimeconfig.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\bin\Debug\net8.0\HelloWorld Övning1.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\bin\Debug\net8.0\HelloWorld Övning1.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.AssemblyInfoInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.AssemblyInfo.cs
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.csproj.CoreCompileInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\refint\HelloWorld Övning1.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\HelloWorld Övning1.genruntimeconfig.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\HelloWorld Övning1\obj\Debug\net8.0\ref\HelloWorld Övning1.dll
