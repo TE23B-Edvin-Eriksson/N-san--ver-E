@@ -1,0 +1,15 @@
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.AssemblyInfoInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.AssemblyInfo.cs
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.csproj.CoreCompileInputs.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.sourcelink.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\bin\Debug\net8.0\Gissanumret.exe
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\bin\Debug\net8.0\Gissanumret.deps.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\bin\Debug\net8.0\Gissanumret.runtimeconfig.json
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\bin\Debug\net8.0\Gissanumret.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\bin\Debug\net8.0\Gissanumret.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\refint\Gissanumret.dll
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.pdb
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\Gissanumret.genruntimeconfig.cache
+c:\Users\edvin.eriksson\Desktop\Programering 1\Näsan Över E\01-Ifsatser-datatyper-loopar\Gissa numret\Gissanumret\obj\Debug\net8.0\ref\Gissanumret.dll
