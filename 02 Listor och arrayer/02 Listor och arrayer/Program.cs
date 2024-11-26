@@ -45,3 +45,28 @@
 
 
 
+
+// 7
+
+List<string> cities = [];
+bool Running = true;
+while (Running)
+{
+    Console.WriteLine("Write a city.");
+    string svar = Console.ReadLine();
+    if (svar.ToLower() == "exit")
+    {
+        Running = false;
+    }
+    else
+    {
+        cities.Add(svar);
+    }
+}
+Console.WriteLine("------");
+foreach (string city in cities)
+{
+    Console.WriteLine(city);
+}
+Console.WriteLine("------");
+Console.ReadLine();
